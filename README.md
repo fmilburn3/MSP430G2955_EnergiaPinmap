@@ -4,9 +4,9 @@ This repository contains the pin mapping and other information required to run E
 
 # To install
   * Dowload this repository as a zip
-  * Unzip file and rename it "custom_g2955"
+  * Unzip file
   * Locate where Energia is installed on your computer
-  * Copy the unzipped and renamed folder into the following directory: .../hardware/msp430/variants/
+  * Copy the folder custom_g2955 into the following directory: .../hardware/msp430/variants/
   * Open the boards.txt file located at: .../hardware/msp430/ in a text editor
   * Append the text below at the end of the boards.txt file
   * Save and close the file

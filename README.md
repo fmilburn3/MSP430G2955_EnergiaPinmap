@@ -8,6 +8,7 @@ This repository contains the pin definitions and other information necessary for
 * Open the boards.txt located at: .../hardware/msp430/ in a text editor
 * Append the following text at the end of the file
 
+<
 msp430g2955.name=Custom board w/ msp430g2955 (16MHz)
 msp430g2955.upload.protocol=rf2500
 msp430g2955.upload.maximum_size=57344
@@ -18,4 +19,5 @@ msp430g2955.build.variant=launchpad_g2955
 msp430g2955.upload.maximum_ram_size=4096
 
 ##############################################################
+>
 

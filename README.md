@@ -1,6 +1,6 @@
 # Energia for MSP430G2955 Custom Board
 
-This repository contains the pin mapping and other information required to run Energia with a custom MSP430G2955 development board.  Pin mapping follows the BoosterPack specifications where possible and is a lightly edited version by Spirilis at 43oh.
+This repository contains the pin mapping and other information required to run Energia with a custom MSP430G2955 development board.  Pin mapping follows the BoosterPack specifications where possible and is a lightly edited version of the one by Spirilis at 43oh, updated to run on Energia v17.
 
 # To install
   * Dowload this repository as a zip

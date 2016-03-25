@@ -15,7 +15,7 @@ This repository contains the pin mapping and other information required to run E
 ```
 msp430g2955.name=Custom board w/ msp430g2955 (16MHz)
 msp430g2955.upload.protocol=rf2500
-msp430g2955.upload.maximum_size=57344
+msp430g2955.upload.maximum_size=57088
 msp430g2955.build.mcu=msp430g2955
 msp430g2955.build.f_cpu=16000000L
 msp430g2955.build.core=msp430

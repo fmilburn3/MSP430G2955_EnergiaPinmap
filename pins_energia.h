@@ -37,7 +37,7 @@
 #define BV(x) (1 << (x))
 #endif
 
-static const uint8_t SS            = 6;  // P3.0 
+static const uint8_t SS            = 8;  // P4.2 
 static const uint8_t SCK           = 7;  // P3.3 
 static const uint8_t MOSI          = 15; // P3.1 
 static const uint8_t MISO          = 14; // P3.2 
@@ -133,6 +133,8 @@ static const uint8_t P1_7 = 40;
 static const uint8_t PUSH1 = 12;
 static const uint8_t PUSH2 = 13;
 static const uint8_t TEMPSENSOR = 128 + 10;
+static const uint8_t RED_LED = 2;
+// static const uint8_t GREEN_LED = 14;
 
 
 #ifdef ARDUINO_MAIN
@@ -365,3 +367,4 @@ const uint32_t digital_pin_to_analog_in[] = {
 
 #endif
 #endif
+
